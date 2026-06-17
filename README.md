@@ -1,4 +1,3 @@
-# FIFA-World-Cup-2026-Prediction-ML-Model
 # FIFA World Cup 2026 — ML Prediction Model
 
 A machine learning system that predicts the winner of the 2026 FIFA World Cup using
