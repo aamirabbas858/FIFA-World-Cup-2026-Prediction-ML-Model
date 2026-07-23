@@ -71,35 +71,20 @@ These probabilities feed a Monte Carlo simulator that:
 ---
 
 ## Project structure
+
+```
 worldcup-2026-predictor/
-
-├── data/
-
-│   └── processed/          ← engineered features, predictions
-
-├── notebooks/
-
-│   ├── 01_data_exploration.ipynb
-
-│   ├── 02_feature_engineering.ipynb
-
-│   ├── 03_model_training.ipynb
-
-│   └── 04_tournament_simulation.ipynb
-
 ├── app/
-
 │   └── app.py              ← Streamlit web application
-
+├── data/
+│   └── processed/          ← engineered features and predictions
 ├── models/                 ← trained model, scaler, feature list
-
 ├── reports/
-
 │   └── figures/            ← saved charts
-
+├── train.py                ← end-to-end training pipeline
 ├── requirements.txt
-
 └── README.md
+```
 
 ## Running locally
 
@@ -128,4 +113,4 @@ Python · scikit-learn · XGBoost · pandas · NumPy · Streamlit · Matplotlib 
 ## Author
 
 **Abbas Aamir** — BSc Computer Science & Digitisation, BSBI Berlin  
-[LinkedIn](www.linkedin.com/in/abbas-aamir-474969353) · [GitHub](https://github.com/aamirabbas858)
+[LinkedIn](https://www.linkedin.com/in/abbas-aamir-474969353) · [GitHub](https://github.com/aamirabbas858)
