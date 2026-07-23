@@ -1,0 +1,434 @@
+{
+  "Mexico": {
+    "rank": 15.0,
+    "points": 1652.33,
+    "form": 0.5,
+    "squad_avg": 77.35,
+    "top11": 79.36,
+    "star": 81.0,
+    "depth": 75.5
+  },
+  "South Korea": {
+    "rank": 22.0,
+    "points": 1572.87,
+    "form": 0.55,
+    "squad_avg": 70.0,
+    "top11": 68.0,
+    "star": 75.0,
+    "depth": 65.0
+  },
+  "South Africa": {
+    "rank": 59.0,
+    "points": 1416.66,
+    "form": 0.4,
+    "squad_avg": 65.68,
+    "top11": 68.36,
+    "star": 74.0,
+    "depth": 62.0
+  },
+  "Czechia": {
+    "rank": 34.0,
+    "points": 1506.23,
+    "form": 0.33,
+    "squad_avg": 70.0,
+    "top11": 68.0,
+    "star": 75.0,
+    "depth": 65.0
+  },
+  "Canada": {
+    "rank": 48.0,
+    "points": 1461.74,
+    "form": 0.4,
+    "squad_avg": 71.7,
+    "top11": 74.82,
+    "star": 83.0,
+    "depth": 68.83
+  },
+  "Switzerland": {
+    "rank": 19.0,
+    "points": 1617.24,
+    "form": 0.4,
+    "squad_avg": 78.22,
+    "top11": 80.73,
+    "star": 87.0,
+    "depth": 75.92
+  },
+  "Qatar": {
+    "rank": 35.0,
+    "points": 1504.06,
+    "form": 0.15,
+    "squad_avg": 67.39,
+    "top11": 69.73,
+    "star": 76.0,
+    "depth": 65.25
+  },
+  "Bosnia and Herzegovina": {
+    "rank": 75.0,
+    "points": 1332.3,
+    "form": 0.3,
+    "squad_avg": 73.83,
+    "top11": 76.45,
+    "star": 83.0,
+    "depth": 71.42
+  },
+  "Brazil": {
+    "rank": 4.0,
+    "points": 1791.85,
+    "form": 0.45,
+    "squad_avg": 84.7,
+    "top11": 86.73,
+    "star": 89.0,
+    "depth": 82.83
+  },
+  "Morocco": {
+    "rank": 12.0,
+    "points": 1669.44,
+    "form": 0.6,
+    "squad_avg": 77.7,
+    "top11": 80.18,
+    "star": 85.0,
+    "depth": 75.42
+  },
+  "Scotland": {
+    "rank": 39.0,
+    "points": 1497.18,
+    "form": 0.55,
+    "squad_avg": 75.57,
+    "top11": 77.73,
+    "star": 86.0,
+    "depth": 73.58
+  },
+  "Haiti": {
+    "rank": 86.0,
+    "points": 1274.46,
+    "form": 0.35,
+    "squad_avg": 66.0,
+    "top11": 66.0,
+    "star": 72.0,
+    "depth": 64.0
+  },
+  "USA": {
+    "rank": 11.0,
+    "points": 1676.52,
+    "form": 0.5,
+    "squad_avg": 75.65,
+    "top11": 77.0,
+    "star": 79.0,
+    "depth": 74.42
+  },
+  "Australia": {
+    "rank": 23.0,
+    "points": 1571.29,
+    "form": 0.5,
+    "squad_avg": 71.57,
+    "top11": 73.36,
+    "star": 78.0,
+    "depth": 69.92
+  },
+  "Paraguay": {
+    "rank": 58.0,
+    "points": 1427.11,
+    "form": 0.4,
+    "squad_avg": 74.43,
+    "top11": 76.0,
+    "star": 81.0,
+    "depth": 73.0
+  },
+  "Turkiye": {
+    "rank": 42.0,
+    "points": 1493.38,
+    "form": 0.6,
+    "squad_avg": 76.83,
+    "top11": 78.91,
+    "star": 85.0,
+    "depth": 74.92
+  },
+  "Germany": {
+    "rank": 16.0,
+    "points": 1646.78,
+    "form": 0.65,
+    "squad_avg": 84.57,
+    "top11": 86.0,
+    "star": 89.0,
+    "depth": 83.25
+  },
+  "Ecuador": {
+    "rank": 30.0,
+    "points": 1517.54,
+    "form": 0.35,
+    "squad_avg": 73.91,
+    "top11": 76.09,
+    "star": 80.0,
+    "depth": 71.92
+  },
+  "Ivory Coast": {
+    "rank": 37.0,
+    "points": 1499.69,
+    "form": 0.6,
+    "squad_avg": 70.0,
+    "top11": 68.0,
+    "star": 75.0,
+    "depth": 65.0
+  },
+  "Curacao": {
+    "rank": 87.0,
+    "points": 1272.71,
+    "form": 0.35,
+    "squad_avg": 70.0,
+    "top11": 68.0,
+    "star": 75.0,
+    "depth": 65.0
+  },
+  "Netherlands": {
+    "rank": 7.0,
+    "points": 1746.66,
+    "form": 0.45,
+    "squad_avg": 81.7,
+    "top11": 83.82,
+    "star": 89.0,
+    "depth": 79.75
+  },
+  "Japan": {
+    "rank": 17.0,
+    "points": 1628.81,
+    "form": 0.55,
+    "squad_avg": 76.35,
+    "top11": 78.64,
+    "star": 81.0,
+    "depth": 74.25
+  },
+  "Sweden": {
+    "rank": 28.0,
+    "points": 1522.19,
+    "form": 0.45,
+    "squad_avg": 75.65,
+    "top11": 77.64,
+    "star": 81.0,
+    "depth": 73.83
+  },
+  "Tunisia": {
+    "rank": 41.0,
+    "points": 1494.06,
+    "form": 0.35,
+    "squad_avg": 70.3,
+    "top11": 73.09,
+    "star": 81.0,
+    "depth": 67.75
+  },
+  "Belgium": {
+    "rank": 3.0,
+    "points": 1797.98,
+    "form": 0.45,
+    "squad_avg": 80.7,
+    "top11": 83.64,
+    "star": 91.0,
+    "depth": 78.0
+  },
+  "Iran": {
+    "rank": 20.0,
+    "points": 1611.16,
+    "form": 0.5,
+    "squad_avg": 69.38,
+    "top11": 72.27,
+    "star": 82.0,
+    "depth": 63.0
+  },
+  "Egypt": {
+    "rank": 36.0,
+    "points": 1502.34,
+    "form": 0.35,
+    "squad_avg": 70.85,
+    "top11": 73.64,
+    "star": 89.0,
+    "depth": 55.5
+  },
+  "New Zealand": {
+    "rank": 107.0,
+    "points": 1197.68,
+    "form": 0.35,
+    "squad_avg": 66.22,
+    "top11": 68.73,
+    "star": 75.0,
+    "depth": 63.92
+  },
+  "Spain": {
+    "rank": 8.0,
+    "points": 1729.92,
+    "form": 0.55,
+    "squad_avg": 84.0,
+    "top11": 85.0,
+    "star": 89.0,
+    "depth": 83.08
+  },
+  "Uruguay": {
+    "rank": 14.0,
+    "points": 1663.44,
+    "form": 0.25,
+    "squad_avg": 79.39,
+    "top11": 82.18,
+    "star": 88.0,
+    "depth": 76.83
+  },
+  "Saudi Arabia": {
+    "rank": 56.0,
+    "points": 1431.3,
+    "form": 0.35,
+    "squad_avg": 70.65,
+    "top11": 72.45,
+    "star": 77.0,
+    "depth": 69.0
+  },
+  "Cape Verde": {
+    "rank": 65.0,
+    "points": 1380.53,
+    "form": 0.35,
+    "squad_avg": 70.0,
+    "top11": 68.0,
+    "star": 75.0,
+    "depth": 65.0
+  },
+  "France": {
+    "rank": 2.0,
+    "points": 1837.47,
+    "form": 0.65,
+    "squad_avg": 84.96,
+    "top11": 86.73,
+    "star": 91.0,
+    "depth": 83.33
+  },
+  "Senegal": {
+    "rank": 18.0,
+    "points": 1623.34,
+    "form": 0.6,
+    "squad_avg": 76.61,
+    "top11": 79.45,
+    "star": 86.0,
+    "depth": 74.0
+  },
+  "Iraq": {
+    "rank": 55.0,
+    "points": 1433.07,
+    "form": 0.45,
+    "squad_avg": 63.38,
+    "top11": 64.82,
+    "star": 69.0,
+    "depth": 55.5
+  },
+  "Norway": {
+    "rank": 46.0,
+    "points": 1466.48,
+    "form": 0.65,
+    "squad_avg": 76.13,
+    "top11": 78.64,
+    "star": 91.0,
+    "depth": 73.83
+  },
+  "Argentina": {
+    "rank": 1.0,
+    "points": 1860.14,
+    "form": 0.7,
+    "squad_avg": 82.83,
+    "top11": 84.73,
+    "star": 90.0,
+    "depth": 81.08
+  },
+  "Algeria": {
+    "rank": 44.0,
+    "points": 1474.13,
+    "form": 0.65,
+    "squad_avg": 75.61,
+    "top11": 78.18,
+    "star": 86.0,
+    "depth": 73.25
+  },
+  "Austria": {
+    "rank": 25.0,
+    "points": 1560.03,
+    "form": 0.65,
+    "squad_avg": 78.13,
+    "top11": 80.27,
+    "star": 85.0,
+    "depth": 76.17
+  },
+  "Jordan": {
+    "rank": 68.0,
+    "points": 1374.13,
+    "form": 0.3,
+    "squad_avg": 70.0,
+    "top11": 68.0,
+    "star": 75.0,
+    "depth": 65.0
+  },
+  "Portugal": {
+    "rank": 6.0,
+    "points": 1747.04,
+    "form": 0.5,
+    "squad_avg": 83.43,
+    "top11": 85.45,
+    "star": 89.0,
+    "depth": 81.58
+  },
+  "Colombia": {
+    "rank": 12.0,
+    "points": 1669.44,
+    "form": 0.4,
+    "squad_avg": 77.35,
+    "top11": 78.91,
+    "star": 84.0,
+    "depth": 75.92
+  },
+  "Uzbekistan": {
+    "rank": 62.0,
+    "points": 1397.41,
+    "form": 0.35,
+    "squad_avg": 66.6,
+    "top11": 66.6,
+    "star": 72.0,
+    "depth": 64.6
+  },
+  "DR Congo": {
+    "rank": 61.0,
+    "points": 1400.93,
+    "form": 0.55,
+    "squad_avg": 70.0,
+    "top11": 68.0,
+    "star": 75.0,
+    "depth": 65.0
+  },
+  "England": {
+    "rank": 5.0,
+    "points": 1787.88,
+    "form": 0.7,
+    "squad_avg": 84.3,
+    "top11": 85.64,
+    "star": 90.0,
+    "depth": 83.08
+  },
+  "Croatia": {
+    "rank": 9.0,
+    "points": 1728.3,
+    "form": 0.5,
+    "squad_avg": 78.87,
+    "top11": 81.36,
+    "star": 87.0,
+    "depth": 76.58
+  },
+  "Ghana": {
+    "rank": 64.0,
+    "points": 1381.25,
+    "form": 0.3,
+    "squad_avg": 75.65,
+    "top11": 77.82,
+    "star": 85.0,
+    "depth": 73.67
+  },
+  "Panama": {
+    "rank": 43.0,
+    "points": 1482.1,
+    "form": 0.4,
+    "squad_avg": 66.93,
+    "top11": 68.91,
+    "star": 72.0,
+    "depth": 61.5
+  }
+}

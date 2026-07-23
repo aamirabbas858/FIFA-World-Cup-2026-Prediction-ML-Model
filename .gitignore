@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Raw data — too large for GitHub (male_players.csv is 92 MB)
+# Regenerate with: python train.py (sources: Kaggle / rsssf.com)
+data/raw/
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Secrets — never commit these
+.env
+.env.*
+secrets.toml
+*.key
+*.pem
+
+# Build / dist
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit local config (may contain user paths)
+.streamlit/secrets.toml
